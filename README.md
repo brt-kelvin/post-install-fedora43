@@ -172,5 +172,3 @@ starship init fish | source
 ## ✅ Done
 
 Your Fedora system is now ready 🚀
-
-este é meu post install do fedora, quero te pedir um favor
