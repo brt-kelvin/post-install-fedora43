@@ -50,7 +50,8 @@ gnome-maps \
 libreoffice* \
 gnome-tour \
 firefox \
-showtime
+showtime \
+decibels
 ```
 
 ---
